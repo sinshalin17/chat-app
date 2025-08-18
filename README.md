@@ -28,6 +28,7 @@ CORS	Backend	Allows frontend-backend communication during development.
 
 📂 Project Structure
 chat-app/
+
 ├── backend/
 │   ├── server.js         # Node.js backend with WebSocket & REST API
 │   └── users.json        # User database (JSON)
