@@ -25,6 +25,7 @@ ws (WebSocket)	Backend	Enables real-time two-way communication.
 WebSocket API	Frontend	For real-time messaging with backend.
 sessionStorage	Frontend	Keeps sessions isolated per tab.
 CORS	Backend	Allows frontend-backend communication during development.
+
 📂 Project Structure
 chat-app/
 ├── backend/
