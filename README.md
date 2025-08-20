@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chat App
 
 This is a real-time chat application that runs on both desktop and mobile web browsers. It features user authentication (signup & login), WebSocket-powered instant messaging, and a live online users list.
